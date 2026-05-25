@@ -5,6 +5,7 @@ import Tela03 from "./Tela03";
 import Tela04 from "./Tela04";
 import Tela05 from "./Tela05";
 import Tela06 from "./Tela06";
+import Tela07 from "./Tela07";
 
 function App() {
   return (
@@ -14,7 +15,8 @@ function App() {
       <Tela03 /> */}
       {/* <Tela04 /> */}
       {/* <Tela05 /> */}
-      <Tela06 />
+      {/* <Tela06 /> */}
+      <Tela07 />
     </>
   );
 }
